@@ -20,6 +20,24 @@ Clone the repository to get started:
 <pre>https://github.com/teja963/Advanced-DSA-and-CS-Theory/blob/master/Samsung%20R%20%26%20D/SwC-Pro-main/</pre>
 <pre>https://github.com/NayakPenguin/Samsung-Pro-Test/blob/main/</pre>
 
+Order summary (compact):
+
+3_RB.cpp
+5_2_scores.cpp
+1_segments.cpp
+4_1_warehouse.cpp (learn BFS)
+4_2_tiles.cpp (2D prefix + binary search)
+4_3_stones.cpp (simple DP)
+5_1_strings.cpp (sequence DP)
+7_1_robot.cpp (decision DP)
+min_subset_diff.cpp (subset-sum, bitset/meet-in-middle)
+apples.cpp (BFS with states / 0-1 BFS)
+6_1_cars.cpp (math/parity)
+2_days.cpp (backtracking / combinatorics)
+soldiers.cpp (tree DP basics)
+min_cost.cpp (rerooting)
+logging_trees.cpp (complex DP/tree-level)
+
 
 ---
 
