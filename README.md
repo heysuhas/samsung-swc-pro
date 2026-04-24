@@ -1,64 +1,116 @@
-# Samsung PRO Test Practice Questions – Coding Problems & Solutions
+# Samsung SWC Preparation Repository 🚀
 
-Welcome to the **Samsung PRO Test Practice Questions** repository!
-
-This repository is a **curated collection of coding problems and solutions** specifically designed to help you **prepare for the Samsung R&D (SwC-Pro) Online Test** and technical coding interviews.
-
-### 🚀 What You'll Find Here:
-- ✅ Samsung Pro Test Coding Questions
-- 📚 Practice Problems with Solutions in C++
-- 💡 Dynamic Programming, Graphs, Greedy, and more
-- 🧠 Problem-solving patterns tailored for Samsung's coding rounds
-
-Clone the repository to get started:
-<pre>git clone https://github.com/kirang193/samsung-pro-coding-questions</pre>
-
----
-### 📂 Other Useful Resources
-
-
-<pre>https://github.com/teja963/Advanced-DSA-and-CS-Theory/blob/master/Samsung%20R%20%26%20D/SwC-Pro-main/</pre>
-<pre>https://github.com/NayakPenguin/Samsung-Pro-Test/blob/main/</pre>
-
-Order summary (compact):
-
-- 3_RB.cpp
-- 5_2_scores.cpp
-- 1_segments.cpp
-- 4_1_warehouse.cpp (learn BFS)
-- 4_2_tiles.cpp (2D prefix + binary search)
-- 4_3_stones.cpp (simple DP)
-- 5_1_strings.cpp (sequence DP)
-- 7_1_robot.cpp (decision DP)
-- min_subset_diff.cpp (subset-sum, bitset/meet-in-middle)
-- apples.cpp (BFS with states / 0-1 BFS)
-- 6_1_cars.cpp (math/parity)
-- 2_days.cpp (backtracking / combinatorics)
-- soldiers.cpp (tree DP basics)
-- min_cost.cpp (rerooting)
-- logging_trees.cpp (complex DP/tree-level)
-
+This repository contains a collection of **Samsung-level coding problems** solved in C++. It is designed to help you **progress from beginner to advanced level** in a structured way.
 
 ---
 
-## ⚠️ NOTE
+## 📌 How to Use This Repository
 
-The problems and solutions in this repository are provided *as-is* and are based on constraints given during our specific test experiences.  
-You are advised to **verify each solution** and **adapt your approach** if problem constraints differ or are more complex.
+If you're new, don't jump randomly into problems.
+Follow this order:
 
----
-
-- Samsung PRO Test
-- Samsung R&D
-- SwC-Pro
-- Samsung placement preparation
-- Samsung pre-onborading test
-- samsung coding questions
-- samsung online test practice
-- samsung professional competency test
+1. Start with **Basics & Warm-up problems**
+2. Move to **Implementation & Simulation**
+3. Then practice **Greedy & Intermediate problems**
+4. Finally, solve **Dynamic Programming & Advanced problems**
 
 ---
 
-### 📣 Help Others
+## 🟢 Level 1: Basics (Start Here)
+Simple logic building and foundational problems.
 
-If you found this helpful, consider ⭐ starring the repo and sharing it with friends who are preparing for Samsung Pro Tests!
+- `2_days.cpp`
+- `3_RB.cpp`
+- `7_1_robot.cpp`
+
+👉 Focus:
+- Loops
+- Conditions
+- Basic problem understanding
+
+---
+
+## 🟡 Level 2: Implementation / Simulation
+Problems that require careful coding and handling edge cases.
+
+- `1_segments.cpp`
+- `4_3_stones.cpp`
+- `5_1_strings.cpp`
+- `5_2_scores.cpp`
+
+👉 Focus:
+- Writing clean logic
+- Handling constraints
+- Debugging skills
+
+---
+
+## 🟠 Level 3: Greedy & Intermediate Problems
+Requires better thinking and optimization.
+
+- `4_2_tiles.cpp`
+- `6_1_cars.cpp`
+- `apples.cpp`
+- `soldiers.cpp`
+
+👉 Focus:
+- Greedy strategies
+- Optimization thinking
+
+---
+
+## 🔴 Level 4: Advanced (DP & Complex Logic)
+These are closer to real Samsung test difficulty.
+
+- `4_1_warehouse.cpp`
+- `min_cost.cpp`
+- `min_subset_diff.cpp`
+- `Min_Subset_Diff(2025_Test_2).cpp`
+- `logging_trees.cpp`
+- `7_2_digit_sum.cpp`
+
+👉 Focus:
+- Dynamic Programming
+- State transitions
+- Time/space optimization
+
+---
+
+## 📈 Recommended Approach
+
+For each problem:
+
+1. Try solving it yourself (at least 30–45 mins)
+2. If stuck, think about patterns (DP, greedy, etc.)
+3. Then check solution
+4. Rewrite the solution on your own
+
+---
+
+## ⚠️ Important Notes
+
+- Don’t just copy code — **understand it**
+- Focus on **patterns**, not just problems
+- Revisit tough problems after a few days
+
+---
+
+## 🎯 Goal
+
+By completing this repository in order, you should be able to:
+
+- Handle Samsung-level coding tests
+- Improve problem-solving speed
+- Recognize common DSA patterns quickly
+
+---
+
+## 🛠 Future Improvements (Planned)
+
+- Add problem statements
+- Add complexity analysis
+- Better folder structure (DP, Graphs, etc.)
+
+---
+
+Happy Coding 💻🔥
